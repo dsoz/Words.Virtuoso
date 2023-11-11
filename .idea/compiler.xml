@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Words_Virtuoso.util.main" target="11" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task-build-classes-kotlin.main" target="11" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task-build-reports-tests.main" target="11" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task-build-test-results.main" target="11" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task-build-tmp.main" target="11" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
